@@ -1,0 +1,34 @@
+{
+    "base environment": "/home/ben/micromamba",
+    "channels": [
+        "https://conda.anaconda.org/conda-forge/linux-64",
+        "https://conda.anaconda.org/conda-forge/noarch"
+    ],
+    "curl version": "libcurl/8.7.1 OpenSSL/3.0.13 zlib/1.3.1 brotli/1.1.0 zstd/1.5.6 libidn2/2.3.7 libpsl/0.21.5 libssh2/1.11.0 nghttp2/1.61.0",
+    "env location": "-",
+    "environment": "None (not found)",
+    "envs directories": [
+        "/home/ben/micromamba/envs"
+    ],
+    "libarchive version": "libarchive 3.7.4 zlib/1.3.1 liblzma/5.4.6 bz2lib/1.0.8 libzstd/1.5.6",
+    "libmamba version": "1.5.8",
+    "micromamba version": "1.5.8",
+    "package cache": [
+        "/home/ben/micromamba/pkgs",
+        "/home/ben/.mamba/pkgs"
+    ],
+    "platform": "linux-64",
+    "populated config files": [
+        "/home/ben/.condarc"
+    ],
+    "user config files": [
+        "/home/ben/.mambarc"
+    ],
+    "virtual packages": [
+        "__unix=0=0",
+        "__linux=6.8.0=0",
+        "__glibc=2.39=0",
+        "__archspec=1=x86_64-v4",
+        "__cuda=12.4=0"
+    ]
+}

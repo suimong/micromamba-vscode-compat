@@ -1,0 +1,5 @@
+{
+    "envs directories": "envs_dirs",
+    "package cache": "pkgs_dirs",
+    "base environment": "root_prefix"
+}
