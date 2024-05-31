@@ -7,6 +7,11 @@ Enables VSCode Python Extension to:
 1. recognize micromamba environments and list them as interpreters.
 2. automatically activate the selected conda environment in the Terminal.
 
+## Dependencies
+
+- `sed`
+- `jq`
+
 ## Usage
 
 1. First, copy some files to the micromamba directory.
